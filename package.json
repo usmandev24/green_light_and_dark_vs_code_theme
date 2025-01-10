@@ -1,0 +1,51 @@
+{
+	"name": "light-green-VS-code-Theme",
+	"displayName": "light green (VS code) Theme ",
+	"description": "A personalized VS Code theme for day use",
+	"version": "7.3.0",
+	"publisher": "usmandev24",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/usmandev24/"
+	},
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Light Warm Green   ...eyes first",
+				"uiTheme": "vs",
+				"path": "./themes/light_modern_warm.json"
+			},
+{
+				"label": "Light Cool Green   ...eyes first",
+				"uiTheme": "vs",
+				"path": "./themes/light_modern_warm.json"
+			},
+{
+				"label": "Light Soft Green   ...eyes first",
+				"uiTheme": "vs",
+				"path": "./themes/light_modern_warm.json"
+			},
+{
+				"label": "Dark Night Green   ...eyes first",
+				"uiTheme": "vs-dark",
+				"path": "./themes/light_modern_night.json"
+			},
+
+
+
+		]
+	},
+	"__metadata": {
+		"isApplicationScoped": false,
+		"installedTimestamp": 1736508584215,
+		"pinned": true,
+		"source": "vsix",
+		"size": 26327
+	}
+}
