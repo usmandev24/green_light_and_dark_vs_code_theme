@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Default Dark Green Modern",
+  "name": "Dark Green Eyes First",
   "include": "./dark_plus_night.json",
   "colors": {
     "activityBar.activeBorder": "#800080",

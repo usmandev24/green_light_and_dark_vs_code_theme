@@ -2,7 +2,7 @@
 	"name": "green-eyes-first-theme",
 	"displayName": "Green all in one eyes first theme",
 	"description": "A personalized VS Code theme set for both night and day and for every type of light or dark conditions",
-	"version": "1.0.0",
+	"version": "2.1.0",
 	"publisher": "usmandev24",
 	"repository": {
 		"type": "git",
@@ -24,7 +24,7 @@
 			{
 				"label": "Light Cool Green   ...eyes first",
 				"uiTheme": "vs",
-				"path": "./themes/light_modern_warm.json"
+				"path": "./themes/light_modern_cool.json"
 			},
 			{
 				"label": "Light Soft Green   ...eyes first",
