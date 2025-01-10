@@ -1,8 +1,8 @@
 {
 	"name": "green-eyes-first-theme",
-	"displayName": "Green Eyes First Theme All In ONE",
+	"displayName": "Green Eyes First Theme",
 	"description": "A personalized VS Code theme set for both night and day and for every type of light or dark conditions",
-	"version": "4.0.0",
+	"version": "4.1.0",
 	"publisher": "usmandev24",
 	"repository": {
 		"type": "git",
