@@ -21,7 +21,8 @@
 2. Search for "Green Eyes First Theme".
 3. Click "Install".
 
-Alternatively, install via the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=usmandev24.green-eyes-first-theme).
+Alternatively, install via the [Download .vsic file](https://github.com/usmandev24/green_light_and_dark_vs_code_theme/releases/tag/4.1.0).
+Go to extensions in VS CODE and then find option to install vsic file.
 
 ## Usage
 
@@ -38,7 +39,7 @@ Alternatively, install via the [Visual Studio Marketplace](https://marketplace.v
 
 ## Repository
 
-Find the source code and contribute to the project at the [GitHub Repository](https://github.com/usmandev24/).
+Find the source code and contribute to the project at the [GitHub Repository](https://github.com/usmandev24/green_light_and_dark_vs_code_theme).
 
 ## Feedback and Contributions
 
@@ -47,4 +48,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 ---
 
 **Publisher**: usmandev24  
-**Version**: 4.1.0
+**Version**: 4.2.0
