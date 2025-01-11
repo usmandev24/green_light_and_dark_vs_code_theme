@@ -92,7 +92,7 @@
         {
             "scope": "entity.name.tag",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -142,14 +142,14 @@
             "scope": "markup.bold",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
             "scope": "markup.heading",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -179,7 +179,7 @@
         {
             "scope": "markup.changed",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -213,7 +213,7 @@
                 "entity.name.function.preprocessor"
             ],
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -237,19 +237,19 @@
         {
             "scope": "meta.diff.header",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
             "scope": "storage",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
             "scope": "storage.type",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -258,7 +258,7 @@
                 "keyword.operator.noexcept"
             ],
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -296,7 +296,7 @@
                 "punctuation.section.embedded"
             ],
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -322,13 +322,13 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
             "scope": "keyword.control",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -350,7 +350,7 @@
                 "keyword.operator.logical.python"
             ],
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         },
         {
@@ -383,7 +383,7 @@
         {
             "scope": "variable.language",
             "settings": {
-                "foreground": "#5CD85C"
+                "foreground": "#58ce58"
             }
         }
     ],
