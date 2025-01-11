@@ -2,7 +2,7 @@
 	"name": "green-eyes-first-theme",
 	"displayName": "Green Eyes First Theme",
 	"description": "A personalized VS Code theme set for both night and day and for every type of light or dark conditions",
-	"version": "5.0.1",
+	"version": "5.0.2",
 	"publisher": "usmandev24",
 	"repository": {
 		"type": "git",
@@ -36,7 +36,7 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_night.json"
 			},
-                        {
+			{
 				"label": "Dark Vivid Green   ...eyes first",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark_modern_vivid.json"
@@ -45,9 +45,9 @@
 	},
 	"__metadata": {
 		"isApplicationScoped": false,
-		"installedTimestamp": 1736508584215,
+		"installedTimestamp": 1736583613873,
 		"pinned": true,
 		"source": "vsix",
-		"size": 26327
+		"size": 90425
 	}
 }

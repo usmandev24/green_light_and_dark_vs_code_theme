@@ -21,7 +21,7 @@
 2. Search for "Green Eyes First Theme".
 3. Click "Install".
 
-Alternatively, install via the [Download green-eyes-first-theme-5.0.1.vsix](https://github.com/usmandev24/green_light_and_dark_vs_code_theme/releases/download/5.0.1/green-eyes-first-theme-5.0.1.vsix)
+Alternatively, install via the [Download green-eyes-first-theme-5.0.2.vsix](https://github.com/usmandev24/green_light_and_dark_vs_code_theme/releases/download/5.0.2/green-eyes-first-theme-5.0.2.vsix)
 Go to extensions in VS CODE and then find option to install vsix file.
 
 ## Usage
@@ -49,4 +49,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 ---
 
 **Publisher**: usmandev24  
-**Version**: 5.0.1
+**Version**: 5.0.2
