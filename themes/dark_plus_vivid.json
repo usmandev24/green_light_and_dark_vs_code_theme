@@ -95,7 +95,7 @@
                 "constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#83f5a3"
+                "foreground": "#87e7a2"
             }
         },
         {
@@ -105,7 +105,7 @@
                 "variable.other.enummember"
             ],
             "settings": {
-                "foreground": "#4Fe1a0"
+                "foreground": "#62e769"
             }
         },
         {
