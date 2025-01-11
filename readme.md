@@ -21,7 +21,7 @@
 2. Search for "Green Eyes First Theme".
 3. Click "Install".
 
-Alternatively, install via the [Download green-eyes-first-theme-4.5.1.vsix](https://github.com/usmandev24/green_light_and_dark_vs_code_theme/releases/download/4.5.1/green-eyes-first-theme-4.5.1.vsix)
+Alternatively, install via the [Download green-eyes-first-theme-5.0.1.vsix](https://github.com/usmandev24/green_light_and_dark_vs_code_theme/releases/download/5.0.1/green-eyes-first-theme-5.0.1.vsix)
 Go to extensions in VS CODE and then find option to install vsix file.
 
 ## Usage
@@ -32,6 +32,7 @@ Go to extensions in VS CODE and then find option to install vsix file.
    - Light Cool Green
    - Light Soft Green
    - Dark Night Green
+   - Dark Vivid Green
 
 ## Compatibility
 
@@ -48,4 +49,4 @@ Feel free to open issues or submit pull requests on GitHub for improvements and 
 ---
 
 **Publisher**: usmandev24  
-**Version**: 4.5.1
+**Version**: 5.0.1
