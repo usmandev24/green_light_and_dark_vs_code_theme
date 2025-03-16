@@ -14,7 +14,7 @@
   - **Light Soft Green**: A subtle and softer green theme for relaxed work sessions.
   - **Dark Vivid Green**: A dark theme optimized for night-time coding.
 ## Important Note: 
-  Always use **Fira Code medium** When using any daylight theme. 
+  Always use **jetbrains mono** When using any daylight theme. 
 ## Installation
 
 1. Open **Extensions View** in VS Code by pressing `Ctrl+Shift+X` (Windows/Linux) or `Cmd+Shift+X` (macOS).
@@ -33,6 +33,16 @@ Go to extensions in VS CODE and then find option to install vsix file.
    - Light Soft Green
    - Dark Night Green
    - Dark Vivid Green
+## SecreenShots: 
+Dark Vivid Green:
+![image](https://github.com/user-attachments/assets/aa9c8130-e2c2-4c9e-a11c-27a66164316f)
+Dark Night Green:
+![image](https://github.com/user-attachments/assets/09a2d790-04c9-4ba5-ae60-53f45f09b2f4)
+Light Warm Green:
+![image](https://github.com/user-attachments/assets/64a5a8f8-fecf-4f47-b0ee-c0aeefee027d)
+Light Cool Green:
+![image](https://github.com/user-attachments/assets/0b2c41ba-39ee-4d60-95d6-acee9cd8af5a)
+
 
 ## Compatibility
 
